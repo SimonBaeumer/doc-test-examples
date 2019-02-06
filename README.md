@@ -1,4 +1,4 @@
-# MyModule
+# doc testing in elixir
 
 Example elixir module which uses document testing
 
